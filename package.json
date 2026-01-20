@@ -1,0 +1,24 @@
+{
+  "name": "projecta",
+  "version": "1.0.0",
+  "description": "Korean e-commerce website (바이린샵) - HTML, CSS, JavaScript implementation",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjanga110279-del/jjanga1102.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jjanga110279-del/jjanga1102/issues"
+  },
+  "homepage": "https://github.com/jjanga110279-del/jjanga1102#readme",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  }
+}

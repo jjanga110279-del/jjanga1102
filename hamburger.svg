@@ -1,0 +1,5 @@
+<svg class="header__hamburger" width="24" height="25" viewBox="0 0 24 25" fill="none">
+    <rect y="2" width="24" height="2" fill="black" />
+    <rect y="11.5" width="24" height="2" fill="black" />
+    <rect y="21" width="24" height="2" fill="black" />
+  </svg>
